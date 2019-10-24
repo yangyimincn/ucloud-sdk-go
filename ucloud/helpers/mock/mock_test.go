@@ -6,12 +6,12 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/auth"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/response"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/auth"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/response"
 
-	proto "github.com/ucloud/ucloud-sdk-go/private/protocol/http"
+	proto "github.com/yangyimincn/ucloud-sdk-go/private/protocol/http"
 )
 
 func newTestClient() *ucloud.Client {

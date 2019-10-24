@@ -4,10 +4,10 @@ import (
 	"time"
 
 	"github.com/ucloud/ucloud-sdk-go/private/utils"
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	uerr "github.com/ucloud/ucloud-sdk-go/ucloud/error"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/log"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud"
+	uerr "github.com/yangyimincn/ucloud-sdk-go/ucloud/error"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/log"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
 )
 
 // WaitUntilUHostInstanceStateRequest is the request of uhost instance state waiter

@@ -4,8 +4,8 @@
 package udb
 
 import (
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/response"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/response"
 )
 
 // DescribeUDBBackupBlacklistRequest is request schema for DescribeUDBBackupBlacklist action

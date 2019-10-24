@@ -8,10 +8,10 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ucloud/ucloud-sdk-go/private/protocol/http"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/response"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/version"
+	"github.com/yangyimincn/ucloud-sdk-go/private/protocol/http"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/response"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/version"
 )
 
 // SetupRequest will init request by client configuration

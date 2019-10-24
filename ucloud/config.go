@@ -3,8 +3,8 @@ package ucloud
 import (
 	"time"
 
-	"github.com/ucloud/ucloud-sdk-go/ucloud/log"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/version"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/log"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/version"
 )
 
 // Version is the version of sdk

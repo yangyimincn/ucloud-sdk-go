@@ -3,8 +3,8 @@
 package udb
 
 import (
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/auth"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/auth"
 )
 
 // UDBClient is the client of UDB
