@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/ucloud/ucloud-sdk-go/ucloud/log"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/log"
 )
 
 // Waiter to wait sth until it completed.

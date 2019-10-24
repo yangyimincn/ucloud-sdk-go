@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/ucloud/ucloud-sdk-go/private/utils"
+	"github.com/yangyimincn/ucloud-sdk-go/private/utils"
 )
 
 var availableHTTPMethods = []string{"GET", "POST", "PUT", "DELETE", "OPTION", "HEAD", "PATCH"}

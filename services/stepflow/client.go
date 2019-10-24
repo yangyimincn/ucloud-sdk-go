@@ -3,8 +3,8 @@
 package stepflow
 
 import (
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/auth"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/auth"
 )
 
 // StepFlowClient is the client of StepFlow

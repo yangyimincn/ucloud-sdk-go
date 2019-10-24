@@ -6,14 +6,14 @@ package ucloud
 import (
 	"time"
 
-	"github.com/ucloud/ucloud-sdk-go/private/utils"
+	"github.com/yangyimincn/ucloud-sdk-go/private/utils"
 
-	"github.com/ucloud/ucloud-sdk-go/private/protocol/http"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/auth"
-	uerr "github.com/ucloud/ucloud-sdk-go/ucloud/error"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/log"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/response"
+	"github.com/yangyimincn/ucloud-sdk-go/private/protocol/http"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/auth"
+	uerr "github.com/yangyimincn/ucloud-sdk-go/ucloud/error"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/log"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/response"
 )
 
 type ClientMeta struct {

@@ -9,10 +9,10 @@ import (
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 
-	uerr "github.com/ucloud/ucloud-sdk-go/ucloud/error"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/log"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/response"
+	uerr "github.com/yangyimincn/ucloud-sdk-go/ucloud/error"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/log"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/response"
 )
 
 const (

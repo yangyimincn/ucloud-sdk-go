@@ -4,11 +4,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/ucloud/ucloud-sdk-go/private/protocol/http"
-	uerr "github.com/ucloud/ucloud-sdk-go/ucloud/error"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/log"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/response"
+	"github.com/yangyimincn/ucloud-sdk-go/private/protocol/http"
+	uerr "github.com/yangyimincn/ucloud-sdk-go/ucloud/error"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/log"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/response"
 )
 
 // RequestHandler receive request and write data into this request memory area

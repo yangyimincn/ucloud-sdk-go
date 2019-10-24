@@ -6,7 +6,7 @@ package waiter
 import (
 	"time"
 
-	"github.com/ucloud/ucloud-sdk-go/ucloud/log"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/log"
 )
 
 const graceRefreshTimeout = 30 * time.Second

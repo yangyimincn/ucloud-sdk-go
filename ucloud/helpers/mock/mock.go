@@ -3,7 +3,7 @@ package mock
 import (
 	"encoding/json"
 
-	"github.com/ucloud/ucloud-sdk-go/private/protocol/http"
+	"github.com/yangyimincn/ucloud-sdk-go/private/protocol/http"
 )
 
 // Request is the parameters of an action invoking

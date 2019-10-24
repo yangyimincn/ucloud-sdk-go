@@ -4,7 +4,7 @@ Package response is the response of service
 package response
 
 import (
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
 )
 
 // Common describe a response of action,

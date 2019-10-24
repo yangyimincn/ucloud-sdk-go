@@ -3,8 +3,8 @@
 package umem
 
 import (
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/auth"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/auth"
 )
 
 // UMemClient is the client of UMem

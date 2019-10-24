@@ -4,8 +4,8 @@
 package pathx
 
 import (
-	"github.com/ucloud/ucloud-sdk-go/ucloud/request"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/response"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/request"
+	"github.com/yangyimincn/ucloud-sdk-go/ucloud/response"
 )
 
 // ModifyGlobalSSHPortRequest is request schema for ModifyGlobalSSHPort action
